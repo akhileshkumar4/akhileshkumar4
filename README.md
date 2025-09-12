@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akhilesh Kr</h1>
+<h1 align="center">Hi 👋, I'm Akhilesh Kumar</h1>
 <h3 align="center">Passionate and detail-oriented Computer Science undergraduate with hands-on experience in backend development, databases, and full-stack web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhileshkumar4&label=Profile%20views&color=0e75b6&style=flat" alt="akhileshkumar4" /> </p>
