@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **MySql, HTML, CSS, JavaScript, PHP, WordPress, Responsive UI**
 
-- 📫 How to reach me **akhileshkumar73822@gmail.com**
+- 📫 How to reach me **akhileshkumar25204@gmail.com**
 
 - ⚡ Fun fact **Sleep is optional, but take away my tech, AI, or gadgets — and I’ll probably glitch like an unhandled exception 🧠💥📲**
 
