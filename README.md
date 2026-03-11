@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript, Android Studio**
 
-- 👨‍💻 All of my projects are available at [https://github.com/akhilesh-kumar-01](https://github.com/akhilesh-kumar-01)
+- 👨‍💻 All of my projects are available at [https://github.com/akhileshkumar4)
 
 - 💬 Ask me about **MySql, HTML, CSS, JavaScript, PHP, WordPress, Responsive UI**
 
