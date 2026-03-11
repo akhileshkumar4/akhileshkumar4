@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/akhileshkumar4)
 
-- 💬 Ask me about **MySql, HTML, CSS, JavaScript, PHP, WordPress, Responsive UI**
+- 💬 Ask me about **MySql, HTML, CSS, JavaScript, Java, WordPress, Responsive UI**
 
 - 📫 How to reach me **akhileshkumar25204@gmail.com**
 
